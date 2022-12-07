@@ -53,3 +53,9 @@ To get live feedback on your code, you will need a plugin for the editor you're 
 If you're using [Sublime Text](https://www.sublimetext.com/), it's recommended to install the [SublimeLinter-eslint](https://github.com/SublimeLinter/SublimeLinter-eslint) plugin to get linting feedback in the editor.
 
 If you're use [VSCode](https://code.visualstudio.com/), you can use the [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) plugin.
+
+## Unit tests
+
+If you want to start learning how to perform unit tests in JavaScript, you can have a look at `/test/some-test.js`.
+For unit tests we're using the combination of [Mocha](https://mochajs.org/) and the [Chai assertion library](https://www.chaijs.com/).
+Feel free to add some test files in the `/test` folder and then see them in action by running `npm test` in the main folder.
