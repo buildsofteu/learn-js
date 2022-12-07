@@ -50,7 +50,8 @@ Give it a name and then it will be accessible on `http://localhost:port/file.htm
 To enforce a consistent code style and reduce the risk of bugs, [eslint](https://eslint.org) is already set up in this repository.
 To get live feedback on your code, you will need a plugin for the editor you're using.
 
-If you're using [Sublime Text](https://www.sublimetext.com/), it's recommended to install the [SublimeLinter-eslint](https://github.com/SublimeLinter/SublimeLinter-eslint) plugin to get linting feedback in the editor.
+If you're using [Sublime Text](https://www.sublimetext.com/), it's recommended to install [Sublime Linter](https://www.sublimelinter.com/en/stable/installation.html) and then the [SublimeLinter-eslint](https://github.com/SublimeLinter/SublimeLinter-eslint) plugin to get linting feedback in the editor.
+**IMPORTANT** You have to install `SublimeLinter` **before** `SublimeLinter-eslint` or it WILL NOT WORK!
 
 If you're use [VSCode](https://code.visualstudio.com/), you can use the [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) plugin.
 
