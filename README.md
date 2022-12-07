@@ -22,14 +22,14 @@ Congratulations, you're ready to get started!
 
 ## Development
 
-The file `/static/hello.js` can be used to start playing around.
+The file `/playground/hello.js` can be used to start playing around.
 Add any JavaScript to it you like and refresh the browser to see its effects in action!
 
 You are encouraged to document your learning journey by commiting your work regularly.
 Tried out something new and got it to work?
 Cool, commit it so you can always get back to it later on if you break it in the future!
 
-If you want to keep certain examples around, you can create a new `.html` file in the `/static` folder with the standard
+If you want to keep certain examples around, you can create a new `.html` file in the `/playground` folder with the standard
 ```html
 <!DOCTYPE html>
 <html>

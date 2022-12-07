@@ -5,7 +5,7 @@
   "description": "A playground for learning JavaScript",
   "main": "server.js",
   "scripts": {
-    "start": "serve static",
+    "start": "serve playground",
     "test": "mocha"
   },
   "repository": {
