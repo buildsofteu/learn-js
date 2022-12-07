@@ -25,7 +25,9 @@
     "serve": "^14.1.2"
   },
   "devDependencies": {
+    "@buildsoft/eslint-config": "github:buildsofteu/eslint-config",
     "chai": "^4.3.7",
+    "eslint": "^8.29.0",
     "mocha": "^10.1.0"
   }
 }
